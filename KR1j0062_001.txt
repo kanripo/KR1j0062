@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 增修校正押韻釋疑
-#+DATE: 2018-03-28 13:09:52.542783
+#+DATE: 2018-03-28 13:09:52.679332
 #+PROPERTY: ID KR1j0062
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 卷一上
 <pb:KR1j0062_WYG_001-1a>¶
 欽定四庫全書¶
